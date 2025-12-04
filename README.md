@@ -1,5 +1,5 @@
 ## Shamuoon Haider:
-Hi, I’m Shamoon a web developer exploring React, TypeScript, state management, and modern frontend tools. I enjoy building clean, simple projects while learning and improving every day.<br>
+Hi, I’m Shamuoon Haider, a fullstack Js developer, mastering Nextjs, ReactJs and also working on Orms like Prisma and drizzle integrate Payload for auth and Cms.<br>
 
 
 ## 🌐 Socials:
