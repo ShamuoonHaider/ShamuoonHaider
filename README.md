@@ -1,5 +1,5 @@
 ## Shamuoon Haider:
-Hi, I’m Shamuoon Haider, a fullstack Js developer, mastering Nextjs, ReactJs and also working on Orms like Prisma and drizzle integrate Payload for auth and Cms.<br>
+Hi, I’m Shamuoon Haider, a fullstack Js developer, mastering Nextjs, ReactJs.<br>
 
 
 ## 🌐 Socials:
