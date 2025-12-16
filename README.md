@@ -1,5 +1,5 @@
 ## Shamuoon Haider:
-Hi, I’m Shamuoon Haider, a fullstack Js developer, mastering Nextjs, ReactJs.<br>
+Hi, I’m Shamuoon Haider, a fullstack Js developer, mastering Nextjs, Reactjs.<br>
 
 
 ## 🌐 Socials:
