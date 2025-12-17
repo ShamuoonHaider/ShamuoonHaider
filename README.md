@@ -1,5 +1,5 @@
 ## Shamuoon Haider:
-Hi, I’m Shamuoon Haider mastering Nextjs, Reactjs.<br>
+Hi, I’m Shamuoon Haider and i'm mastering Nextjs, Reactjs.<br>
 -- i use Arch btw
 
 
