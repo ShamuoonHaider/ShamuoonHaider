@@ -1,5 +1,5 @@
 ## Shamuoon Haider:
-Hi, I’m Shamuoon Haider. A junior Next.js dev and always up for learning new frameworks for Js</br>
+Hi, I’m Shamuoon Haider. A junior Next.js dev. trying to survive in AI era</br>
 -- I use Arch btw
 
 
