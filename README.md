@@ -1,6 +1,6 @@
 ## Shamuoon Haider:
-Hi, I’m Shamuoon Haider and i'm mastering Nextjs, Reactjs.<br>
--- i use Arch btw
+Hi, I’m Shamuoon Haider. A junior Next.js dev and always up for learning new frameworks for Js</br>
+-- I use Arch btw
 
 
 ## 🌐 Socials:
