@@ -1,5 +1,5 @@
 ## Shamuoon Haider:
-Hi, I’m Shamuoon Haider. A junior sofware dev. trying to survive in AI era;</br>
+Hi, I’m Shamuoon Haider. A junior software dev. trying to survive in AI era;</br>
 let's actually code and try to do something better for this world;</br>
 Never ending coding challenge starts 1 day before 2026 starts;
 
