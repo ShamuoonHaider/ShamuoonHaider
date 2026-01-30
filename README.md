@@ -1,7 +1,4 @@
-## Shamuoon Haider:
-Hi, I’m Shamuoon Haider. A junior software dev. trying to become a core js dev</br>
-let's actually code and try to do something better for this world
-</br>
+
 
 ------------
 
