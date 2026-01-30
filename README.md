@@ -5,7 +5,7 @@ let's actually code and try to do something better for this world
 
 ------------
 
-let's watch anime together someday only after you become a pro dev
+i've got an empty mind and i'm not feeling hungry either
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shamuoon-haider-6b680a270) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HaiderShamuoon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shamuoonh08@gmail.com) 
