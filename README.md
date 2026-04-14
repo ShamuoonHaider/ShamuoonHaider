@@ -1,7 +1,7 @@
 
 
 ------------
-it's not that easy
+still trying to find where i'll fit in prefectly
 
 
 # 📊 GitHub Stats:
