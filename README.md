@@ -1,8 +1,8 @@
 
 
-------------
+-----------
 
-I Finally Found it
+Trying to master nvim and Rust everything else is RIP
 
 
 # 📊 GitHub Stats:
