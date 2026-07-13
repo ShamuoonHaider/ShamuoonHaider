@@ -15,15 +15,15 @@
 
 **Solo Full-Stack Developer** &#12299;_building under the studio name Web Slayers, 3+ years shipping client projects independently_
 <br/>
-**Arch Linux Tinkerer & Café Racer Builder** &#12299;_ricing Wayland desktops (Niri) 
+**Arch Linux Tinkerer & Café Racer Builder** &#12299;_ricing Wayland desktops (Niri)
 ----
-<a href="https://github.com/ShamuoonHaider/ShamuoonHaider">
+<a href="https://github.com/ShamuoonHaider/ShamuoonHaider" target="_blank" rel="noopener noreferrer">
   <img alt="GitHub" src="https://img.shields.io/static/v1?logo=github&label=&message=GitHub&color=36465D&logoColor=AAA&style=flat-square" />
 </a>
-<a href="https://www.linkedin.com/in/shamuoon-haider-6b680a270/">
+<a href="https://www.linkedin.com/in/shamuoon-haider-6b680a270/" target="_blank" rel="noopener noreferrer">
   <img alt="LinkedIn" src="https://img.shields.io/static/v1?logo=linkedin&label=&message=LinkedIn&color=36465D&logoColor=AAA&style=flat-square" />
 </a>
-<a href="https://x.com/HaiderShamuoon">
-  <img alt=" (Twitter)" src="https://img.shields.io/static/v1?logo=X&label=&message=X&color=36465D&logoColor=AAA&style=flat-square" />
+<a href="https://x.com/HaiderShamuoon" target="_blank" rel="noopener noreferrer">
+  <img alt="X" src="https://img.shields.io/static/v1?logo=x&label=&message=&color=36465D&logoColor=AAA&style=flat-square" />
 </a>
 | &nbsp;&nbsp;&nbsp; Studio : Web Slayers &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
