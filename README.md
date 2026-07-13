@@ -18,12 +18,12 @@
 **Arch Linux Tinkerer & Café Racer Builder** &#12299;_ricing Wayland desktops (Niri) 
 ----
 <a href="https://github.com/ShamuoonHaider/ShamuoonHaider">
-  <img align="left" alt="GitHub" width="20px" src="https://simpleicons.now.sh/github/495f7e" />
+  <img alt="GitHub" src="https://img.shields.io/static/v1?logo=github&label=&message=GitHub&color=36465D&logoColor=AAA&style=flat-square" />
 </a>
 <a href="https://www.linkedin.com/in/shamuoon-haider-6b680a270/">
-  <img align="left" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img alt="LinkedIn" src="https://img.shields.io/static/v1?logo=linkedin&label=&message=LinkedIn&color=36465D&logoColor=AAA&style=flat-square" />
 </a>
 <a href="https://x.com/HaiderShamuoon">
-  <img align="left" alt="X (Twitter)" width="20px" src="https://simpleicons.now.sh/x/495f7e" />
+  <img alt="X (Twitter)" src="https://img.shields.io/static/v1?logo=x&label=&message=X&color=36465D&logoColor=AAA&style=flat-square" />
 </a>
 | &nbsp;&nbsp;&nbsp; Studio : Web Slayers &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
