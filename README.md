@@ -24,6 +24,6 @@
   <img alt="LinkedIn" src="https://img.shields.io/static/v1?logo=linkedin&label=&message=LinkedIn&color=36465D&logoColor=AAA&style=flat-square" />
 </a>
 <a href="https://x.com/HaiderShamuoon">
-  <img alt="X (Twitter)" src="https://img.shields.io/static/v1?logo=&label=&message=X&color=36465D&logoColor=AAA&style=flat-square" />
+  <img alt=" (Twitter)" src="https://img.shields.io/static/v1?logo=X&label=&message=X&color=36465D&logoColor=AAA&style=flat-square" />
 </a>
 | &nbsp;&nbsp;&nbsp; Studio : Web Slayers &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
