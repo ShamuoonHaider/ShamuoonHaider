@@ -15,9 +15,15 @@
 
 **Solo Full-Stack Developer** &#12299;_building under the studio name Web Slayers, 3+ years shipping client projects independently_
 <br/>
-**Arch Linux Tinkerer & Café Racer Builder** &#12299;_ricing Wayland desktops (Niri)
+**Arch Linux Tinkerer & Café Racer Builder** &#12299;_ricing Wayland desktops (Niri) 
 ----
-<a href="LINK_HERE">
+<a href="https://github.com/ShamuoonHaider/ShamuoonHaider">
   <img align="left" alt="GitHub" width="20px" src="https://simpleicons.now.sh/github/495f7e" />
+</a>
+<a href="https://www.linkedin.com/in/shamuoon-haider-6b680a270/">
+  <img align="left" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+<a href="https://x.com/HaiderShamuoon">
+  <img align="left" alt="X (Twitter)" width="20px" src="https://simpleicons.now.sh/x/495f7e" />
 </a>
 | &nbsp;&nbsp;&nbsp; Studio : Web Slayers &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
