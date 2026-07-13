@@ -15,7 +15,7 @@
 
 **Solo Full-Stack Developer** &#12299;_building under the studio name Web Slayers, 3+ years shipping client projects independently_
 <br/>
-**Arch Linux Tinkerer & Café Racer Builder** &#12299;_ricing Wayland desktops (Niri) and converting a Honda CD70 into a café racer, one weekend at a time_
+**Arch Linux Tinkerer & Café Racer Builder** &#12299;_ricing Wayland desktops (Niri)
 ----
 <a href="LINK_HERE">
   <img align="left" alt="GitHub" width="20px" src="https://simpleicons.now.sh/github/495f7e" />
