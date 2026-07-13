@@ -11,11 +11,14 @@
 ![postgresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=postgresql&color=36465D&logoColor=AAA&style=flat-square)
 ![react](https://img.shields.io/static/v1?logo=react&label=&message=react&color=36465D&logoColor=AAA&style=flat-square)
 ![tailwindcss](https://img.shields.io/static/v1?logo=tailwind-css&label=&message=tailwindcss&color=36465D&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
+![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
+![tmux](https://img.shields.io/static/v1?logo=tmux&label=&message=tmux&color=36465D&logoColor=AAA&style=flat-square)
 ![arch](https://img.shields.io/static/v1?logo=arch-linux&label=&message=arch+linux&color=36465D&logoColor=AAA&style=flat-square)
 
 **Solo Full-Stack Developer** &#12299;_building under the studio name Web Slayers, 3+ years shipping client projects independently_
 <br/>
-**Arch Linux Tinkerer & Café Racer Builder** &#12299;_ricing Wayland desktops (Niri)
+**Arch Linux Tinkerer & Café Racer Builder** &#12299;_ricing Wayland desktops (Niri) and converting a Honda CD70 into a café racer, one weekend at a time_
 ----
 <a href="https://github.com/ShamuoonHaider/ShamuoonHaider" target="_blank" rel="noopener noreferrer">
   <img alt="GitHub" src="https://img.shields.io/static/v1?logo=github&label=&message=GitHub&color=36465D&logoColor=AAA&style=flat-square" />
@@ -24,6 +27,6 @@
   <img alt="LinkedIn" src="https://img.shields.io/static/v1?logo=linkedin&label=&message=LinkedIn&color=36465D&logoColor=AAA&style=flat-square" />
 </a>
 <a href="https://x.com/HaiderShamuoon" target="_blank" rel="noopener noreferrer">
-  <img alt="X" src="https://img.shields.io/static/v1?logo=x&label=&message=&color=36465D&logoColor=AAA&style=flat-square" />
+  <img alt="X" src="https://img.shields.io/static/v1?logo=x&label=&message=Twitter&color=36465D&logoColor=AAA&style=flat-square" />
 </a>
 | &nbsp;&nbsp;&nbsp; Studio : Web Slayers &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
