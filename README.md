@@ -18,7 +18,7 @@
 
 **Solo Full-Stack Developer** &#12299;_building under the studio name Web Slayers, 3+ years shipping client projects independently_
 <br/>
-**Arch Linux User & Café Racer Builder** &#12299;_ricing Wayland desktops (Niri)
+**Arch Linux User 
 ----
 <a href="https://github.com/ShamuoonHaider/ShamuoonHaider" target="_blank" rel="noopener noreferrer">
   <img alt="GitHub" src="https://img.shields.io/static/v1?logo=github&label=&message=GitHub&color=36465D&logoColor=AAA&style=flat-square" />
